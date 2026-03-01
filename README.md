@@ -40,7 +40,6 @@ Welcome to my GitHub profile! I'm a developer coding and trying to solve real pr
 
 ## 📫 CONTACT
 - **Website:** [krishnaplwl.github.io](https://krishnaplwl.github.io)
-- **Discord:** `justsomerandomdude246`
 - **Email:** [krishna.plwl264@gmail.com](mailto:krishna.plwl264@gmail.com)
 - **Hugging Face:** [justsomerandomdude264](https://huggingface.co/justsomerandomdude264)
 - **Itch.io:** [KrishnaPaliwal](https://krishnapaliwal.itch.io/)
